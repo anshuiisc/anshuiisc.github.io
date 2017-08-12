@@ -1,23 +1,23 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "G. Lemaitre"
-description: "Personal website of Guillaume Lemaitre"
-keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate"
+title: "A. Shukla"
+description: "Personal website of Anshu Shukla"
+keywords: "shukla,anshu,distributed systems,biddata,fast data,IoT"
 baseurl: "/"
-url: "http://glemaitre.github.io"
+url: "http://anshuiisc.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Lemaitre'
-  first_name: 'Guillaume'
-  last_name: 'Lemaitre'
-  email: 'g.lemaitre58@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/guillaume-lemaitre-b9404939'
-  github_username: 'glemaitre'
+  name: 'Anshu'
+  first_name: 'Anshu'
+  last_name: 'Shukla'
+  email: 'anshu.shukla@ericsson.com'
+  linkedin_username: 'https://www.linkedin.com/in/anshuiisc'
+  github_username: 'anshuiisc'
   head_img: 'static/img/landing/picture.png'
-  desc: 'I am a researcher focusing on medical imaging, pattern recogntion, and machine learning. I strive for open source and data.'
+  desc: 'I am a researcher focusing on Distributed Systems, fast data processing, and Internet of Things. I strive for open source and data.'
 
 # sections
 sections:
@@ -54,7 +54,7 @@ sections:
 # localization
 languages:
   - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
+    flag: 'static/img/flags/India.png'
   # - locale: 'zh'
   #   flag: 'static/img/flags/China.png'
 
