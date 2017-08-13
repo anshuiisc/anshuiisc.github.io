@@ -1,23 +1,26 @@
-- name: Medical Imaging
+- name: Apache Storm
+  percentage: 95
+
+- name: Apache Spark
   percentage: 95
 
 - name: Python
   percentage: 95
 
-- name: Prostate Cancer
+- name: Java
   percentage: 95
 
 - name: C/C++
   percentage: 80
 
-- name: Retinopathy
+- name: Bash
   percentage: 85
 
 - name: Git
   percentage: 98
 
-- name: Pattern Recognition
-  percentage: 90
+- name: R
+  percentage: 80
 
 - name: Linux/Unix
   percentage: 95
@@ -34,8 +37,8 @@
 - name: Latex
   percentage: 95
 
-- name: Computer Vision
+- name: Cloud Computing
   percentage: 85
 
 - name: HTML/CSS
-  percentage: 80
+  percentage: 70

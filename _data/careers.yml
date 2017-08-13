@@ -1,39 +1,26 @@
 - name:
-    detail: Joint PhD at UdG-UBFC
+    detail: Researcher at Ericsson-Bangalore
     i18n: phd
   desc:
-    detail: In November 2016, I graduated from a joint PhD from the Universitat de Girona and the Universite de Bourgogne France-Comte. My thesis was entitled "Computer-Aided Diagnosis for Prostate Cancer using Multi-Parametric Magnetic Resonance Imaging".
+    detail: In August 2017, I joined as the research enginner in Cloud Team @ Ericsson Research group.
     i18n: phd_des
   date:
-    detail: Jun. 2012 - Nov. 2016
+    detail: Aug. 2017 - *
     i18n: phd_date
   job:
-    detail: PhD candidate
+    detail: Research Engineer
     i18n: phd_job
   icon: fa-search
 
-- name:
-    detail: Temporary associate professor at UBFC
-    i18n: phd
-  desc:
-    detail: From March 2015 to March 2016, I was temporary associate professor at the Universite de Bourgogne Franche-Comte. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
-    i18n: phd_des
-  date:
-    detail: Mar. 2015 - Mar. 2016
-    i18n: ater_date
-  job:
-    detail: ATER
-    i18n: ater_job
-  icon: fa-search
 
 - name:
-    detail: MSc in Business Innovation and Technology Management (BITM) at UdG
+    detail: MSc from Department of Computational and Data Sciences (CDS) at IISc
     i18n: bitm
   desc:
-    detail: In September 2014, I graduated from a Master in Business Innovation and Technology Management. My final thesis "Valorisation of Computerized Technology in the Health Care Sector".
+    detail: In July 2017, I graduated from a Master in Computer Science from Department of Computational and Data Sciences (CDS). My final thesis "Benchmarking and Scheduling Strategies for Distributed Stream Processing".
     i18n: bitm_des
   date:
-    detail: Sep. 2012 - Sep. 2014
+    detail: July 2014 - July 2017
     i18n: bitm_date
   job:
     detail: MSc student candidate
