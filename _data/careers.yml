@@ -28,29 +28,16 @@
   icon: fa-book
 
 - name:
-    detail: Barcelona Digital
-    i18n: bd
+    detail: B.Tech. from Institute of Engineering and Technology, Lucknow (AKTU/UPTU) 
+    i18n: bitm
   desc:
-    detail: From September 2011 to June 2012, I was researcher at Barcelona Digital focusing on object recognition and more precisely traffic sign detection.
-    i18n: bd_des
+    detail: In July 2013, I finished my bachelors in Computer Science and Engineering Department from IET, Lucknow. My final thesis "Simulation And Analysis Of Routing Protocols For Mobile Ad-hoc
+Networks: A Comparison of Performance Of Ad-hoc On Demand Distance Vector And Dynamic Source Routing Protocols". 
+    i18n: bitm_des
   date:
-    detail: Sep. 2011 - Jun. 2012
-    i18n: bd_date
+    detail: July 2009 - July 2013
+    i18n: bitm_date
   job:
-    detail: Intern researcher
-    i18n: bd_job
-  icon: fa-search
-
-- name:
-    detail: Erasmus Mundus MSc in Vision and Robotics (Vibot) at HWU-UdG-UBFC
-    i18n: vibot
-  desc:
-    detail: In September 2011, I graduated from a Master in Vision and Robotics. My final thesis was entitled "Absolute Quantification in 1H MRSI of the Prostate at 3T".
-    i18n: vibot_des
-  date:
-    detail: Sep. 2009 - Sep. 2011
-    i18n: vibot_date
-  job:
-    detail: MSc student candidate
-    i18n: vibot_job
+    detail: B.Tech student candidate
+    i18n: bitm_job
   icon: fa-book
