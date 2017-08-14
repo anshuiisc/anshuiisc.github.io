@@ -14,7 +14,7 @@
 
 
 - name:
-    detail: MSc from Department of Computational and Data Sciences (CDS) at IISc
+    detail: M.Sc.(Eng.) from Department of Computational and Data Sciences (CDS) at IISc
     i18n: bitm
   desc:
     detail: In July 2017, I graduated from a Master in Computer Science from Department of Computational and Data Sciences (CDS). My final thesis "Benchmarking and Scheduling Strategies for Distributed Stream Processing".
