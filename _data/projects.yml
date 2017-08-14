@@ -15,9 +15,4 @@
 #  url: '/scikit-learn-contrib/imbalanced-learn'
 #  img: 'static/img/landing/sklearncontrib.png'
 #  desc: 'Python module to tackle the problem of imbalanced dataset by performing under- and over-sampling with various techniques.'
-#
-#- name: 'Traffic signs detection'
-#  i18n: 'traffic'
-#  url: '/glemaitre/traffic-sign-detection'
-#  img: 'static/img/landing/signs.jpg.png'
-#  desc: 'Real-time traffic sign detection using Gielis curves.'
+
