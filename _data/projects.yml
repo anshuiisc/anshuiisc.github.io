@@ -6,7 +6,7 @@
 
 - name: 'Storm-CustomScheduler'
   i18n: 'storm scheduler'
-  url: 'anshuiisc/Storm-CustomScheduler'
+  url: '/anshuiisc/Storm-CustomScheduler'
   img: 'static/img/landing/dream.png'
   desc: 'Repository associated with our medical imaging development related to retinopathy.'
 
