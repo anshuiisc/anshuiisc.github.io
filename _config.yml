@@ -51,13 +51,6 @@ sections:
     tpl: 'publications.html'
     css: 'publications'
 
-  - id: 'publications1'
-    i18n: 'nav.publications'
-    name: 'Publications1'
-    tpl: 'publications.html'
-    css: 'publications'
-
-
 # localization
 languages:
   - locale: 'en'
