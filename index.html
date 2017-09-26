@@ -74,16 +74,15 @@ permalink: /
     </a>
 </div>
 
-
-<!-- Start: Copyright 2017 TraceMyIP.org Service Code (182915-09262017)- DO NOT MODIFY //-->
-<div style="line-height:16px;text-align:center;"><script type="text/javascript" src="//s3.tracemyip.org/tracker/lgUrl.php?stlVar2=1500~1506450487~15*5~0061E0*FFFBC4*FA0000*003091~1*1*1*1*1&amp;rgtype=4684NR-IPIB&amp;pidnVar2=44155&amp;prtVar2=14&amp;scvVar2=12"></script><noscript><a href="https://www.tracemyip.org/"><img src="//s3.tracemyip.org/tracker/1500~1506450487~15*5~0061E0*FFFBC4*FA0000*003091~1*1*1*1*1/4684NR-IPIB/44155/14/12/ans/" alt="track site visitors" style="border:0px;"></a></noscript></div>
-<!-- End: TraceMyIP.org Service Code //-->
-
-
-
 {% for section in site.sections %}
   {% assign loopindex = forloop.index | modulo: 2 %}
   <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0px;">
     {% include sections/{{section.tpl}} %}
   </section>
 {% endfor %}
+
+
+
+<!-- Start: Copyright 2017 TraceMyIP.org Service Code (182915-09262017)- DO NOT MODIFY //-->
+<div style="line-height:16px;text-align:center;"><script type="text/javascript" src="//s3.tracemyip.org/tracker/lgUrl.php?stlVar2=1500~1506450487~15*5~0061E0*FFFBC4*FA0000*003091~1*1*1*1*1&amp;rgtype=4684NR-IPIB&amp;pidnVar2=44155&amp;prtVar2=14&amp;scvVar2=12"></script><noscript><a href="https://www.tracemyip.org/"><img src="//s3.tracemyip.org/tracker/1500~1506450487~15*5~0061E0*FFFBC4*FA0000*003091~1*1*1*1*1/4684NR-IPIB/44155/14/12/ans/" alt="track site visitors" style="border:0px;"></a></noscript></div>
+<!-- End: TraceMyIP.org Service Code //-->
